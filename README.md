@@ -7,3 +7,5 @@ In this tutorial, you will learn how to:
 - Apply zonal statistics to calculate the percentage change of tree cover for each administrative unit in the region.
 - Compare the results for different years and identify the areas with the most significant changes in tree cover.
 - Visualize the results using ggplot2
+
+![alt text](https://github.com/milos-agathon/visualizing-tree-cover-loss/blob/main/tree_change.png?raw=true)
